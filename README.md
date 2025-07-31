@@ -101,5 +101,5 @@ npm run preview
 質問や問題があれば Issue を作成してください。
 
 ## 📄 ライセンス
-
+## 7/31 デプロイ中
 MIT License
