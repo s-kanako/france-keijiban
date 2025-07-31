@@ -10,7 +10,7 @@ import { PlusCircle, Upload, X, ImageIcon, Loader2 } from "lucide-react";
 import { Badge } from "./ui/badge";
 import { api, type CreatePostData } from "../utils/api";
 import { useAuth } from "./AuthContext";
-import { toast } from "sonner@2.0.3";
+import { toast } from "sonner";
 
 const categories = [
   "スーパー・買い物",
