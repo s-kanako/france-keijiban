@@ -102,4 +102,6 @@ npm run preview
 
 ## 📄 ライセンス
 ## 7/31 デプロイ中
+## 難しい
 MIT License
+trigger deploy
