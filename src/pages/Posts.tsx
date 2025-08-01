@@ -1,4 +1,3 @@
-/src/pages/Posts.tsx
 import { useEffect, useState } from 'react'
 import { supabase } from '/utils/supabase/client.tsx'
 import { Link } from 'react-router-dom'
