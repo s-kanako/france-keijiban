@@ -1,7 +1,7 @@
 // src/pages/PostDetail.tsx
 import { useParams } from 'react-router-dom'
 import { useEffect, useState } from 'react'
-import { supabase } from '../utils/supabase/client'
+import { supabase } from '../../utils/supabase/client'
 
 type Post = {
   id: string
